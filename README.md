@@ -26,7 +26,8 @@ Implementation of iOS APN (Apple push notification server) mock
     APN feedback is started in localhost port 8091
     REST API is started in localhost port 8092
 
-    Important!!! All the data should be coded as [APN standards](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/CommunicatingWIthAPS.html)
+    Important!!! All the data should be coded as APN standards:
+    https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/CommunicatingWIthAPS.html
 
 
 ## USAGE
